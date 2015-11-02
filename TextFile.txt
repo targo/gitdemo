@@ -7,3 +7,5 @@ Another line
 one off and second
 conflict 1
 second conflict
+
+new change
