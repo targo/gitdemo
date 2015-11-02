@@ -10,3 +10,4 @@ conflict 1
 second conflict
 
 new change
+second new change
