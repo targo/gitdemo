@@ -2,3 +2,4 @@ Megapärtel's change
 This is the first version of my file.
 Another dev makes a change
 Targo's new line
+Another line
