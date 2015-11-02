@@ -6,3 +6,4 @@ Targo's new line
 Another line
 one off and second
 conflict 1
+second conflict
