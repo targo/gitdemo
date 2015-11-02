@@ -5,3 +5,4 @@ Another dev makes a change
 Targo's new line
 Another line
 one off and second
+conflict 1
