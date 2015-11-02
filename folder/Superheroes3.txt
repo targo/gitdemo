@@ -6,6 +6,7 @@ Megapärtel's change
 This is the first version of my file.
 Another dev makes a change
 add line
+ohoo
 Targo's new line
 Another line
 one off and second
