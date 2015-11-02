@@ -12,3 +12,4 @@ second conflict
 
 new change
 second new change
+1
